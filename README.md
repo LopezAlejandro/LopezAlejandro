@@ -73,7 +73,9 @@ Soy un desarrollador full-stack que ha convertido años de trabajo independiente
 </td></tr></table>  
 <br/>  
 <br/>  
-![Profile views counter](https://komarev.com/ghpvc/?username=LopezAlejandro&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=LopezAlejandro&&style=flat-square" align="center" />
+</div>  
 <br/>  
 <br />
 ----
